@@ -1,50 +1,57 @@
-# 🧪 Rain's QA Sample Projects
+# 🧪 QA Sample Projects by Rain
 
-Welcome to my software quality assurance (QA) portfolio. This repository includes samples of my test planning and execution work — from manual test cases to automation scripts — organized clearly for hiring managers, recruiters, and team leads to review.
+Welcome to my QA sample project repository! This collection showcases a range of **manual** and **automated** software testing artifacts — including test cases, bug reports, and working Python Selenium scripts.
 
----
-
-## 📁 What's Inside
-
-### ✅ UI Test Cases
-- Manual test cases for form validations and field behaviors
-- Format: Excel
-- Folder: `/ui-tests/`
-
-### 🔗 API Test Cases
-- Manual tests for RESTful API endpoints using tools like Postman
-- Covers GET, POST, negative cases, and validations
-- Format: Excel
-- Folder: `/api-tests/`
-
-### 🤖 Automation Scripts
-- Selenium Python scripts for login functionality
-- Beginner-friendly and self-written
-- Folder: `/automation-tests/`
-
-### 🐞 Bug Reports
-- Documented bugs with steps to reproduce, expected vs actual results
-- Format: Excel
-- Folder: `/bug-reports/`
+Whether you’re a recruiter, hiring manager, or a fellow QA enthusiast — this is a hands-on portfolio of my testing skills, organization, and passion for software quality.
 
 ---
 
-## 🛠️ Tools Used
+## 📁 Folder Structure
 
-- Excel / Google Sheets  
-- Selenium + Python  
-- Postman  
-- GitHub for version control
+qa-sample-projects/
+│
+├── api-tests/ → API test case Excel sheet (GET, POST, DELETE scenarios)
+│
+├── automation-tests/ → Python Selenium scripts for form testing (login, UI validations, etc.)
+│
+├── bug-reports/ → Sample bug reports with severity/priority tagging
+│
+└── ui-tests/ → Manual UI test cases in Excel format (registration, layout, mobile, etc.)
 
 ---
 
-## 👩🏻‍💻 About Me
+## 🔧 Tools & Technologies Used
 
-Hi! I’m Rain — a tech enthusiast transitioning into QA from a background in customer service and data. I created this repo to showcase my readiness for a QA role by demonstrating real, practical testing work.
+- **Python** 🐍
+- **Selenium WebDriver**
+- **Excel / Google Sheets**
+- **Manual Testing Techniques**
+- **Git & GitHub**
+- *(Optional: Postman or REST API clients for API testing)*
 
 ---
 
-## 📫 Let’s Connect
+## ✅ Highlights
 
-I'm actively applying for entry-level QA roles and always open to feedback, mentoring, or opportunities.
+- ✔️ **6+ Selenium test scripts** for login flows, password validation, and link navigation
+- ✔️ Clean and categorized **manual test cases**
+- ✔️ Realistic **bug reports** with severity and priority tagging
+- ✔️ Organized folder structure with `README.md` in each section
+- ✔️ Follows QA best practices (naming, clarity, edge cases)
+
+---
+
+## 📫 About Me
+
+Hi, I’m Cyruslene or **Rain** — a passionate QA professional rekindling my IT career after a few years away.  
+This repo is both my learning playground and a professional showcase.  
+
+---
+
+## 💬 Let’s Connect
+
+I’m actively seeking QA-related roles (manual, entry automation, or internship level).  
+Feel free to reach out via [LinkedIn] or [Jobstreet], or contact me directly for project walkthroughs.
+
+---
 
