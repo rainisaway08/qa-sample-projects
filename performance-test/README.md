@@ -1,6 +1,7 @@
 # Performance Testing – BlazeMeter Sample
 
 This folder contains a basic performance test conducted using [BlazeMeter](https://www.blazemeter.com/), a cloud-based load testing tool.
+→ BlazeMeter test simulation with 10 users and no errors, run on the same page as the accessibility audit.
 
 ## 🧪 What This Includes
 
