@@ -1,57 +1,73 @@
-# 🧪 QA Sample Projects by Rain
+# QA Sample Projects by Cyruslene “Rain” Tan
 
-Welcome to my QA sample project repository! This collection showcases a range of **manual** and **automated** software testing artifacts — including test cases, bug reports, and working Python Selenium scripts.
-
-Whether you’re a recruiter, hiring manager, or a fellow QA enthusiast — this is a hands-on portfolio of my testing skills, organization, and passion for software quality.
+Welcome to my QA portfolio! This repository showcases my hands-on experience in manual testing, automation, bug reporting, API validation, accessibility audits, and performance testing. Every folder contains practical examples that reflect real-world QA processes.
 
 ---
 
-## 📁 Folder Structure
+## 📁 Folder Overview
 
-qa-sample-projects/
-│
-├── api-tests/ → API test case Excel sheet (GET, POST, DELETE scenarios)
-│
-├── automation-tests/ → Python Selenium scripts for form testing (login, UI validations, etc.)
-│
-├── bug-reports/ → Sample bug reports with severity/priority tagging
-│
-└── ui-tests/ → Manual UI test cases in Excel format (registration, layout, mobile, etc.)
+### 🧪 `ui-tests/`
+Manual test cases for user interface elements like forms and input fields  
+📄 `UI_Test_Cases_15.xlsx` | Includes structured test cases and logic  
+🔗 [View Folder](./ui-tests)
 
 ---
 
-## 🔧 Tools & Technologies Used
-
-- **Python** 🐍
-- **Selenium WebDriver**
-- **Excel / Google Sheets**
-- **Manual Testing Techniques**
-- **Git & GitHub**
-- *(Optional: Postman or REST API clients for API testing)*
+### 🐞 `bug-reports/`
+Excel-based bug documentation with issue descriptions, severity, and expected outcomes  
+📄 `QA_Bug_Reports_Sample.xlsx`  
+🔗 [View Folder](./bug-reports)
 
 ---
 
-## ✅ Highlights
-
-- ✔️ **6+ Selenium test scripts** for login flows, password validation, and link navigation
-- ✔️ Clean and categorized **manual test cases**
-- ✔️ Realistic **bug reports** with severity and priority tagging
-- ✔️ Organized folder structure with `README.md` in each section
-- ✔️ Follows QA best practices (naming, clarity, edge cases)
+### 🔌 `api-tests/`
+Request/response testing examples using Postman logic  
+📄 `API_Test_Cases.xlsx` | Covers input validation and API response handling  
+🔗 [View Folder](./api-tests)
 
 ---
 
-## 📫 About Me
-
-Hi, I’m Cyruslene or **Rain** — a passionate QA professional rekindling my IT career after a few years away.  
-This repo is both my learning playground and a professional showcase.  
-
----
-
-## 💬 Let’s Connect
-
-I’m actively seeking QA-related roles (manual, entry automation, or internship level).  
-Feel free to reach out via [LinkedIn] or [Jobstreet], or contact me directly for project walkthroughs.
+### 🤖 `automation-tests/`
+Selenium WebDriver scripts built with Python for login and form scenarios  
+📄 Includes: `test_login.py`, `test_invalid_login.py`, etc.  
+🔗 [View Folder](./automation-tests)
 
 ---
 
+### ♿ `accessibility-test/`
+Accessibility scan using Axe DevTools on a live public website  
+🧾 57 violations logged with a summary and screenshot  
+📸 `Accessibility-test.png` | 🔗 [View Folder](./accessibility-test)
+
+---
+
+### 📊 `performance-tests/`
+Load testing simulation using BlazeMeter with 10 virtual users  
+✅ No errors found during test  
+📸 `blazemeter_test_novoresume.png` | 🔗 [View Folder](./performance-test)
+
+---
+
+## 🛠 Tools & Practices Demonstrated
+
+- Manual Test Case Design & Execution  
+- Defect Logging & Prioritization  
+- Postman API Testing  
+- Selenium (Basic Automation Scripts)  
+- Axe DevTools (Accessibility Audits)  
+- BlazeMeter (Performance Simulation)  
+- GitHub for Version Control  
+- Excel / Markdown Documentation  
+- Lean Six Sigma Yellow Belt Certified
+
+---
+
+## 🙋‍♀️ About Me
+
+I'm Rain — a detail-oriented, growth-driven QA enthusiast. I built this portfolio as part of my ongoing journey to enter the QA field professionally, using real testing methods, open tools, and a passion for quality and accessibility.
+
+---
+
+💬 *Questions, feedback, or collaboration ideas? Reach out!*  
+📧 goawayrain101@gmail.com  
+🌐 GitHub: [github.com/rainisaway08](https://github.com/rainisaway08/qa-sample-projects)
