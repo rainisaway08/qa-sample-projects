@@ -1,0 +1,2 @@
+- 📂 [Performance Testing](./performance-tests/README.md)  
+  → BlazeMeter test simulation with 10 users and no errors, run on the same page as the accessibility audit.
