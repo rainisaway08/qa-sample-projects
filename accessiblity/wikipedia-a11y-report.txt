@@ -1,0 +1,32 @@
+[
+  {
+    code: 'WCAG2AA.Principle4.Guideline4_1.4_1_2.H91.Fieldset.Name',
+    type: 'error',
+    typeCode: 1,
+    message: 'This fieldset element does not have a name available to an accessibility API. Valid names are: legend element, aria-label undefined, aria-labelledby undefined.',
+    context: '<fieldset>\n<input type="hidden" name="fam...</fieldset>',
+    selector: '#search-form > fieldset',
+    runner: 'htmlcs',
+    runnerExtras: {}
+  },
+  {
+    code: 'WCAG2AA.Principle1.Guideline1_3.1_3_1.H71.NoLegend',
+    type: 'error',
+    typeCode: 1,
+    message: 'Fieldset does not contain a legend element. All fieldsets should contain a legend element that describes a description of the field group.',
+    context: '<fieldset>\n<input type="hidden" name="fam...</fieldset>',
+    selector: '#search-form > fieldset',
+    runner: 'htmlcs',
+    runnerExtras: {}
+  },
+  {
+    code: 'WCAG2AA.Principle3.Guideline3_1.3_1_2.H58.1.Lang',
+    type: 'error',
+    typeCode: 1,
+    message: 'The language specified in the lang attribute of this element does not appear to be well-formed.',
+    context: '<a class="jsl10n" href="https://meta.wikimedia.org/wiki/Special:MyLanguage/List_of_Wikipedias" lang="" data-jsl10n="other-languages-label">Other languages</a>',
+    selector: '#js-lang-lists > div:nth-child(11) > a',
+    runner: 'htmlcs',
+    runnerExtras: {}
+  }
+]
