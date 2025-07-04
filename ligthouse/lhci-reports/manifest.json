@@ -1,0 +1,26 @@
+[
+  {
+    "url": "https://www.wikipedia.org/",
+    "isRepresentativeRun": true,
+    "htmlPath": "C:\\Users\\Rain\\lighthouse-ci-demo\\lhci-reports\\www_wikipedia_org--2025_07_04_00_43_51.report.html",
+    "jsonPath": "C:\\Users\\Rain\\lighthouse-ci-demo\\lhci-reports\\www_wikipedia_org--2025_07_04_00_43_51.report.json",
+    "summary": {
+      "performance": 0.89,
+      "accessibility": 0.96,
+      "best-practices": 1,
+      "seo": 1
+    }
+  },
+  {
+    "url": "https://www.cnn.com/",
+    "isRepresentativeRun": true,
+    "htmlPath": "C:\\Users\\Rain\\lighthouse-ci-demo\\lhci-reports\\www_cnn_com--2025_07_04_00_44_10.report.html",
+    "jsonPath": "C:\\Users\\Rain\\lighthouse-ci-demo\\lhci-reports\\www_cnn_com--2025_07_04_00_44_10.report.json",
+    "summary": {
+      "performance": 0.25,
+      "accessibility": 0.96,
+      "best-practices": 0.57,
+      "seo": 0.92
+    }
+  }
+]
