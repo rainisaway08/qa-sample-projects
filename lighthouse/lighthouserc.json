@@ -1,4 +1,9 @@
 {
+  "reportMeta": {
+    "title": "Wikipedia & CNN Lighthouse Reports",
+    "description": "Lighthouse report showing Performance, Accessibility, SEO, and Best Practices scores for Wikipedia and CNN homepages. Generated for QA portfolio.",
+    "generatedDate": "2025-09-02"
+  },
   "ci": {
     "collect": {
       "url": [
@@ -19,3 +24,4 @@
     }
   }
 }
+
